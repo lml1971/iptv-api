@@ -5,7 +5,6 @@ http://aktv.space/live.m3u
 https://live.zbds.top/tv/iptv4.txt
 http://128.204.223.98:12138/d/guest/box_live.txt
 http://8.138.7.223/2025.txt
-http://211.101.234.24:866/qiyu.php?url=a
 https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
 https://live.hacks.tools/tv/ipv4/categories/macau.m3u
 https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
