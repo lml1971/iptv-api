@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-02 18:42:28,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-04-03 06:41:24,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -830,6 +830,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+泸县新闻综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 石棉综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
@@ -1172,7 +1173,9 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
+NewTV惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
+NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 黑莓电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
 黑莓电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E kBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -1379,31 +1382,80 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 求索科学,http://yc.myds.me:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://13937899.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://yc.myds.me:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+NewTV-精品综合,http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 NewTV-精品大剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
+NewTV-精品大剧,http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 NewTV-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV-精品纪录,http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+NewTV-精品体育,http://yc.myds.me:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 NewTV-精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
+NewTV-精品萌宠,http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+NewTV-爱情喜剧,http://yc.myds.me:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 NewTV-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV-超级电视剧,http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+NewTV-超级电影,http://yc.myds.me:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 NewTV-超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
+NewTV-超级综艺,http://yc.myds.me:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 NewTV-潮妈辣婆,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
 NewTV-潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV-潮妈辣婆,http://yc.myds.me:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
 NewTV-东北热剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=YanG-1989
+NewTV-东北热剧,http://yc.myds.me:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
 NewTV-动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
+NewTV-动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 NewTV-古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
+NewTV-古装剧场,http://yc.myds.me:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
 NewTV-欢乐剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=YanG-1989
+NewTV-欢乐剧场,http://yc.myds.me:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
 NewTV-家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
+NewTV-家庭剧场,http://yc.myds.me:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
 NewTV-金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
 NewTV-惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 NewTV-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV-惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
+NewTV-惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NewTV-军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
+NewTV-军旅剧场,http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 NewTV-军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
+NewTV-军事评论,http://yc.myds.me:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 NewTV-魅力潇湘,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
+NewTV-魅力潇湘,http://yc.myds.me:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
 NewTV-明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
+NewTV-明星大片,http://yc.myds.me:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
 NewTV-农业致富,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989
+NewTV-农业致富,http://yc.myds.me:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+NewTV-武博世界,http://yc.myds.me:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
 NewTV-炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
+NewTV-炫舞未来,http://yc.myds.me:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 NewTV-怡伴健康,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=YanG-1989
+NewTV-怡伴健康,http://yc.myds.me:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
 NewTV-中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
+NewTV-中国功夫,http://yc.myds.me:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
+NewTV-黑莓电影,http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV-黑莓动画,http://yc.myds.me:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV-哒啵电竞,http://yc.myds.me:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+NewTV-哒啵赛事,http://yc.myds.me:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+iHOT-爱电竞,http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
+iHOT-爱谍战,http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 iHOT-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+iHOT-爱动漫,http://yc.myds.me:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+iHOT-爱都市,http://yc.myds.me:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+iHOT-爱怀旧,http://yc.myds.me:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+iHOT-爱经典,http://yc.myds.me:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
+iHOT-爱科幻,http://yc.myds.me:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+iHOT-爱科学,http://yc.myds.me:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+iHOT-爱浪漫,http://yc.myds.me:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+iHOT-爱历史,http://yc.myds.me:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+iHOT-爱旅行,http://yc.myds.me:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+iHOT-爱奇谈,http://yc.myds.me:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+iHOT-爱青春,http://yc.myds.me:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
+iHOT-爱赛车,http://yc.myds.me:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+iHOT-爱体育,http://yc.myds.me:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+iHOT-爱玩具,http://yc.myds.me:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+iHOT-爱喜剧,http://yc.myds.me:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+iHOT-爱悬疑,http://yc.myds.me:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+iHOT-爱幼教,http://yc.myds.me:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+iHOT-爱院线,http://yc.myds.me:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
